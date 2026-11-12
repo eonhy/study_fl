@@ -1,0 +1,17 @@
+name: dayline
+description: 마감일과 우선순위로 오늘의 할 일을 정리하는 Flutter 앱.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  path_provider: ^2.1.6
+
+flutter:
+  uses-material-design: true
